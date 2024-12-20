@@ -1,1 +1,1 @@
-# HTML-Basics-and-Document-Structure
+# HTML Basics and Document Structure
